@@ -2,6 +2,8 @@
 
 For details, please, refet to {Google Doc}[https://docs.google.com/document/d/1cfDAHz8QBYbbAMWlDQE2VPMH7PSZzUthUCSw-jm_ano/edit]
 
+The latest highlighting scheme {is here}[https://github.com/maximromanov/EditPadPro_ArabicMD].
+
 Arabic and Persian Geographical MD Texts: This is a repository of texts freely available in online collections. Here the texts are pre-processed using our markdown scheme for the later conversion to TEI XML, followed by integration into the Perseus Digital Library
 
 The following is the list of geographical texts (more detailed list in the Google Doc). Unprocessed texts are in the subfolder "Unprocessed" (with URIs as filenames). If you start working on a text, create a new copy in the folder "Processing". When you are done, move it to "Processed." Processed texts must have their structure tagged according to Arabic MD scheme, which is described in the Google Doc. As you work, please, add comments to relevant texts.
