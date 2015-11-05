@@ -1,6 +1,6 @@
 # jughrafiya
 
-For details, please, refet to {Google Doc}[https://docs.google.com/document/d/1cfDAHz8QBYbbAMWlDQE2VPMH7PSZzUthUCSw-jm_ano/edit]
+For details, please, refet to [https://docs.google.com/document/d/1cfDAHz8QBYbbAMWlDQE2VPMH7PSZzUthUCSw-jm_ano/edit]{Google Doc}
 
 The latest highlighting scheme {is here}[https://github.com/maximromanov/EditPadPro_ArabicMD].
 
