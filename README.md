@@ -1,6 +1,8 @@
 # jughrafiya
 
-For details, please, refet to {Google Doc}[https://docs.google.com/document/d/1cfDAHz8QBYbbAMWlDQE2VPMH7PSZzUthUCSw-jm_ano/edit]
+For details, please, refer to [Google Doc](https://docs.google.com/document/d/1cfDAHz8QBYbbAMWlDQE2VPMH7PSZzUthUCSw-jm_ano/)
+
+*NB*: The latest highlighting scheme: https://github.com/maximromanov/EditPadPro_ArabicMD.
 
 Arabic and Persian Geographical MD Texts: This is a repository of texts freely available in online collections. Here the texts are pre-processed using our markdown scheme for the later conversion to TEI XML, followed by integration into the Perseus Digital Library
 
